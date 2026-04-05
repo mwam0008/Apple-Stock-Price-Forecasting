@@ -1,4 +1,4 @@
-# 🍎 Apple Stock Price Forecasting
+# Apple Stock Price Forecasting
 
 A Streamlit web app that forecasts Apple (AAPL) stock prices using **ARIMA**, **ARIMAX**, and **XGBoost** models.
 
@@ -54,8 +54,3 @@ apple_stock_app/
 `AAPL.csv` contains monthly stock prices for:
 - **AAPL** — Apple Inc. (traded on NASDAQ)
 - **TXN** — Texas Instruments (major chip supplier to Apple)
-
-## Course
-
-CST2216 — Machine Learning 2: Advanced Models and Emerging Topics  
-Algonquin College
